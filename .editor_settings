@@ -1,0 +1,22 @@
+{
+  :workflow {
+    :recent-files [
+      [
+        "/README.md"
+        :html
+      ]
+      [
+        "/builtins/input/all.input_binding"
+        :cljfx-form-view
+      ]
+      [
+        "/builtins/input/default.gamepads"
+        :cljfx-form-view
+      ]
+      [
+        "/game.project"
+        :cljfx-form-view
+      ]
+    ]
+  }
+}

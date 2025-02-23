@@ -1,0 +1,6 @@
+[project]
+title = Defold Util
+
+[library]
+include_dirs = disposer
+
