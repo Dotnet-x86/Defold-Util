@@ -17,6 +17,10 @@
         "/game.project"
         :cljfx-form-view
       ]
+      [
+        "/packages/packages.editor_script"
+        :code
+      ]
     ]
   }
 }
