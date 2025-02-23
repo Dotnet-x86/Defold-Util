@@ -4,3 +4,6 @@ title = Defold Util
 [library]
 include_dirs = packages
 
+[script]
+shared_state = 1
+

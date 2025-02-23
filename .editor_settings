@@ -14,15 +14,23 @@
         :cljfx-form-view
       ]
       [
+        "/asd.lua"
+        :code
+      ]
+      [
+        "/packages/packages.editor_script.lua"
+        :code
+      ]
+      [
+        "/project.shared_editor_settings"
+        :cljfx-form-view
+      ]
+      [
         "/game.project"
         :cljfx-form-view
       ]
       [
         "/packages/task.lua"
-        :code
-      ]
-      [
-        "/asd.lua"
         :code
       ]
       [
