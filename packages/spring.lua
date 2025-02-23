@@ -1,5 +1,7 @@
-_G.X = function()
+local Spring = {}
 
+function Spring.new (default_value)
+	
 end
 
-return nil
+return Spring

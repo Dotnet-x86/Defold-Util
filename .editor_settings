@@ -46,15 +46,23 @@
         :cljfx-form-view
       ]
       [
-        "/packages/test.lua"
-        :code
-      ]
-      [
         "/packages/task.lua"
         :code
       ]
       [
         "/packages/spring.lua"
+        :code
+      ]
+      [
+        "/packages/vector.lua"
+        :code
+      ]
+      [
+        "/packages/test.lua"
+        :code
+      ]
+      [
+        "/packages/Variant/Vector2.lua"
         :code
       ]
     ]
