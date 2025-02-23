@@ -30,12 +30,24 @@
         :cljfx-form-view
       ]
       [
+        "/packages/packages.editor_script"
+        :code
+      ]
+      [
         "/packages/task.lua"
         :code
       ]
       [
-        "/packages/packages.editor_script"
+        "/packages/shared/asd.lua"
         :code
+      ]
+      [
+        "/main/main.collection"
+        :scene
+      ]
+      [
+        "/input/game.input_binding"
+        :cljfx-form-view
       ]
     ]
   }
