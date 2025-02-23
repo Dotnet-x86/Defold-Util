@@ -34,10 +34,6 @@
         :code
       ]
       [
-        "/packages/task.lua"
-        :code
-      ]
-      [
         "/packages/shared/asd.lua"
         :code
       ]
@@ -48,6 +44,18 @@
       [
         "/input/game.input_binding"
         :cljfx-form-view
+      ]
+      [
+        "/packages/test.lua"
+        :code
+      ]
+      [
+        "/packages/task.lua"
+        :code
+      ]
+      [
+        "/packages/spring.lua"
+        :code
       ]
     ]
   }
