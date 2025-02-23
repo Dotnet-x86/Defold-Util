@@ -1,4 +1,7 @@
 local M = {}
+local task = require "packages.task"
+
+_G.task = task
 
 function M.get_language_servers()
     -- Define new language servers here

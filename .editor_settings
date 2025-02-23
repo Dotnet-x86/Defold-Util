@@ -18,6 +18,14 @@
         :cljfx-form-view
       ]
       [
+        "/packages/task.lua"
+        :code
+      ]
+      [
+        "/asd.lua"
+        :code
+      ]
+      [
         "/packages/packages.editor_script"
         :code
       ]
